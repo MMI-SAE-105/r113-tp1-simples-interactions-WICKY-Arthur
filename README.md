@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : WICKY
+- prénom : Arthur
+- URL Netlify : https://fluffy-piroshki-d722be.netlify.app
 
 # Travail
 
